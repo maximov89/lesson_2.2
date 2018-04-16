@@ -1,0 +1,65 @@
+[
+    {
+        "question": "Столица России?",
+        "answers": [
+            {
+                "answer": "Пермь",
+                "result": false
+            },
+            {
+                "answer": "Вологда",
+                "result": false
+            },
+            {
+                "answer": "Москва",
+                "result": true
+            },
+            {
+                "answer": "Сочи",
+                "result": false
+            }
+        ]
+    },
+    {
+        "question": "Столица Китая?",
+        "answers": [
+            {
+                "answer": "Токио",
+                "result": false
+            },
+            {
+                "answer": "Душанбе",
+                "result": false
+            },
+            {
+                "answer": "Пекин",
+                "result": true
+            },
+            {
+                "answer": "Прага",
+                "result": false
+            }
+        ]
+    },
+    {
+        "question": "Столига Англии?",
+        "answers": [
+            {
+                "answer": "Берлин",
+                "result": false
+            },
+            {
+                "answer": "Москва",
+                "result": false
+            },
+            {
+                "answer": "Лондон",
+                "result": true
+            },
+            {
+                "answer": "Париж",
+                "result": false
+            }
+        ]
+    }
+]
